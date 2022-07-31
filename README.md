@@ -1,4 +1,4 @@
-![Noob Coder](https://scontent.fdac149-1.fna.fbcdn.net/v/t39.30808-6/275109297_511739923890294_57510784615368249_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=101&ccb=1-5&_nc_sid=85a577&efg=eyJpIjoiYiJ9&_nc_eui2=AeGvRFgGNlH-Nbo50t5d41Z4bTvj8w2fYqZtO-PzDZ9ipiEH6acr1RXjpvupQAWLnExKBMLGznG4eZj8FgzcmKPb&_nc_ohc=4r5rbpAtpjwAX811jsf&_nc_ht=scontent.fdac149-1.fna&oh=00_AT9oFMsA8dg1l8FYL-cOsE1SPH7dE7diwucV8eq5vzEu4Q&oe=62361E60)
+![Noob Coder](GcamIndo_20220730_184411_8.4.300.PORTRAIT.jpg)
 
 ### Hi there 👋, My name is labib.🙋‍♂️🙋‍♂️🙋‍♂️
 #### Noob Coder
