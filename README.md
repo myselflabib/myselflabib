@@ -1,4 +1,4 @@
-![Noob Coder](GcamIndo_20220730_184411_8.4.300.PORTRAIT.jpg)
+![Noob Coder](https://github.com/pylabib/pylabib/blob/548ef1658699460b415a248c581f70e2d74cb345/pylabib.jpg)
 
 ### Hi there 👋, My name is labib.🙋‍♂️🙋‍♂️🙋‍♂️
 #### Noob Coder
