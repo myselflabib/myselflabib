@@ -1,18 +1,26 @@
-![Noob Coder](https://github.com/pylabib/pylabib/blob/548ef1658699460b415a248c581f70e2d74cb345/pylabib.jpg)
+![Header]([https://your-image-url-here](https://github.com/myselflabib/myselflabib/blob/5f67404f0b1b8bad5de6e747a2d8ef8a34be8f85/pylabib.jpg)) 
+## Hi there, I'm Labib! 👋
 
-### Hi there 👋, My name is labib.🙋‍♂️🙋‍♂️🙋‍♂️
-#### Noob Coder
-Hey, I'm not a professional coder.😊😊😊😊
-I come here to know..🤗🤗🤗
-don't judge me like a programmer..🙁🙁🙁
-tnx..
+### About Me
 
-Skills: REACT / JS / HTML / CSS
+I'm a passionate developer who loves working on exciting projects and learning new technologies. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on my brain
-- 🌱 I’m currently learning web dev.
-- 👯 I’m just excited.
+### GitHub Stats
+
+![Labib's GitHub stats](https://github-readme-stats.vercel.app/api?username=myselflabib&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myselflabib&layout=compact&theme=radical)
+
+### Connect with Me
+
+[![Twitter](https://img.shields.io/badge/Twitter-@myselflabib-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/myselflabib)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-myselflabib-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/myselflabib)
+[![Instagram](https://img.shields.io/badge/Instagram-@myselflabib-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/myselflabib)
+[![GitHub](https://img.shields.io/badge/GitHub-myselflabib-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/myselflabib)
+
+### Projects
+
+Check out some of my projects [here](https://github.com/myselflabib?tab=repositories).
+
+### Recent Activity
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/myselflabib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/myselflabib/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/myselflabib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/myself.labib/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/myselflabib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/myselflabib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](myselflabib.github.io/labib)  
- 
