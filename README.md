@@ -21,7 +21,7 @@
 
 ### Contributions
 
-![GitHub Contributions](https://raw.githubusercontent.com/myselflabib/myselflabib/main/contribution-snake.svg)
+![GitHub Contributions](https://raw.githubusercontent.com/myselflabib/myselflabib/main/dist/contribution-snake.svg)
 
 ### Detailed Stats
 
