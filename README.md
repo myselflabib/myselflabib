@@ -1,76 +1,44 @@
+![GitHub Banner](https://github.com/myselflabib/myselflabib/blob/899b68c4e97484e19ab7377967b48249bda30d2f/banner.png)
+
 # Hello World! 👋 I'm Labib 
+---
+### Student • EdTE @UFTB • Coding • Problem Solving • EdTech 
+---
 
-💻 Exploring Code & Concepts | 🎓 EdTech Engineer | 🚀 Dreaming Big, Building Daily
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F50&width=435&lines=Turning+coffee+into+code;Learning+something+new+daily;Building+the+future+one+commit+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F50&width=600&lines=Student+of+Educational+Technology+and+Engineering;Debugging+my+life+line+by+line;Eating+%3D+Energy%2C+Coding+%3D+Fun;Half+human%2C+half+semicolon;Still+waiting+for+WiFi+speed+upgrade" alt="Typing SVG" />
 </div>
 
+
+
 ---
-
-## 📊 GitHub Analytics
-
 <div align="center">
   
-  ![Labib's GitHub stats](https://github-readme-stats.vercel.app/api?username=myselflabib&show_icons=true&theme=radical&hide_border=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myselflabib&layout=compact&theme=radical&hide_border=true)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=myselflabib&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=myselflabib&color=FF69B4&style=flat-square)
-  ![Years Badge](https://badges.pufler.dev/years/myselflabib?color=FF69B4)
-  ![Repos Badge](https://badges.pufler.dev/repos/myselflabib?color=FF69B4)
-  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=myselflabib&theme=radical&no-bg=true&no-frame=true&margin-w=15&margin-h=15)
-  
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/myselflabib) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@myselflabib) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/myselflabib) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@myselflabib) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/myselflabib) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:labib.hsn.bd@gmail.com) 
 
 ---
 
-## 🛠️ Tech Stack
-
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### 💻 Programming Languages
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-
-### 🧰 Tools
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
-## 🌟 Featured Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=myselflabib&repo=repo-name&theme=radical)](https://github.com/myselflabib/repo-name)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=myselflabib&repo=repo-name&theme=radical)](https://github.com/myselflabib/repo-name)
-
----
-
-## 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/myselflabib)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:labib.hsn.bd@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/myselflabib)
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=myselflabib&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=myselflabib&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=myselflabib&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-## ✨ Fun Facts
-
-- 🧩 I love solving puzzles and brain teasers
-- ☕ Coffee addict and productivity enthusiast
-- 🎮 Casual gamer in free time
-- 📖 Avid reader of tech blogs and documentation
+### Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=myselflabib&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/myselflabib) 
 
-</div>
+  </div>
