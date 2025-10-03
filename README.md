@@ -32,6 +32,10 @@
 
 ---
 
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=myselflabib&theme=radical) ![leetcode](https://leetcard.jacoblin.cool/myselflabib?animation=false)
+
+---
+
 ### Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
